@@ -1,0 +1,3 @@
+[submodule "vendor/rest-client"]
+	path = vendor/rest-client
+	url = git://github.com/adamwiggins/rest-client.git
